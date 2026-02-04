@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build files
+/bin/
+/pkg/
+
+# Go modules
+go.sum
+
+# OS files
+.DS_Store
